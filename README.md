@@ -1,8 +1,8 @@
 # LIBCLIC-SYS
-*libclic-sys* is a Rust language wrapper sys-crate (or library) for the developed C library CLIC ( Command Line Interface written in C).
-## Dependencies:
-- cargo (```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh ```)
-- bindgen (```cargo install bindgen```)
+*libclic-sys* is a precompiled Rust language wrapper sys-crate (or library) for the developed C library CLIC ( Command Line Interface written in C).
+## System Dependencies:
+- cargo 
+- bindgen 
 
 ### Cargo + Rust-Lang installation (macOS + Linux):
 ```
